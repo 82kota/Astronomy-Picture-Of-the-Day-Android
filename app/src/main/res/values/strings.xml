@@ -2,4 +2,19 @@
     <string name="app_name">APIProject_Assignment_2</string>
     <string name="nasa_s_astronomy_picture_of_the_day_apod">NASA\'s Astronomy Picture Of the Day (APOD)</string>
     <string name="go">Go</string>
+    <string name="failed_to_connect_to_the_api">Failed to connect to the API</string>
+    <string name="error_retrieving_data">Error retrieving data</string>
+    <string name="astronomy_picture_of_the_day">Astronomy Picture Of the Day</string>
+
+    <string name="selected_item">Selected item:</string>
+    <string name="apod">APOD</string>
+    <string name="returned_pictures">Returned pictures</string>
+    <string name="image_returned_by_the_api">Image returned by the API</string>
+    <string name="date_returned_by_the_api">Date returned by the api</string>
+    <string-array name="Modes">
+        <item>Today\'s picture</item>
+        <item>Select specific date</item>
+        <item>Random date</item>
+        <item>Get a random batch</item>
+    </string-array>
 </resources>
