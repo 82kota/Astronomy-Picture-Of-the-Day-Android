@@ -6,11 +6,17 @@
     <string name="error_retrieving_data">Error retrieving data</string>
     <string name="astronomy_picture_of_the_day">Astronomy Picture Of the Day</string>
 
-    <string name="selected_item">Selected item:</string>
     <string name="apod">APOD</string>
     <string name="returned_pictures">Returned pictures</string>
     <string name="image_returned_by_the_api">Image returned by the API</string>
     <string name="date_returned_by_the_api">Date returned by the api</string>
+    <string name="what_did_earth_look_like_that_day">What did earth look like that day?</string>
+    <string name="here_s_what_earth_looked_like_on">Here\'s what Earth looked like on %1$s</string>
+    <string name="planet_earth">Planet Earth</string>
+    <string name="find_out">Find out</string>
+    <string name="dscovr_s_earth_polychromatic_imaging_camera_epic">DSCOVR\'s Earth Polychromatic Imaging Camera (EPIC)</string>
+    <string name="app_desc">Welcome to the unofficial APOD app! It uses NASA\'s astronomy picture of the day API, allowing you to access a daily updated selection of fascinating astronomic imagery. There are several different modes to choose from below. For dates after July 2015, you can also see a picture of Earth from that date using another api from NASA (abbreviated to EPIC). Note: Earth imagery might be unavailable for certain dates.</string>
+    <string name="no_picture">Unfortunately, there is no picture of the Earth for this date as of yet. Please select another date. \t (Hint: You can see something interesting on 11 February, 2021)</string>
     <string-array name="Modes">
         <item>Today\'s picture</item>
         <item>Select specific date</item>
